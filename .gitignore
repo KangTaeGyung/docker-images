@@ -6,3 +6,7 @@
 .idea/
 .DS_Store
 .vscode/
+OracleDatabase/SingleInstance/dockerfiles/18.4.0/Dockerfile.xe
+OracleDatabase/SingleInstance/dockerfiles/18.4.0/runOracle.sh
+OracleDatabase/SingleInstance/dockerfiles/18.4.0/run.txt
+OracleDatabase/SingleInstance/dockerfiles/18.4.0/Dockerfile.xe
